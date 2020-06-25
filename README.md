@@ -17,6 +17,10 @@ surrounding areas (Katy, League City, Pasadena, Pearland, Sugar Land, and Cypres
 
 ## Dataset to Be Used:
 https://data.texas.gov/Government-and-Taxes/Mixed-Beverage-Gross-Receipts/naix-2893/data
+https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population 
+
+## Presentation
+https://docs.google.com/presentation/d/1T1sDpnEstt8buLjf21G97sqU6pZ_2o1bCP0DNKcIW7g/edit?usp=sharing
 
 ## Rough Breakdown of Tasks:
 * Pull  and Clean Data, then sort by Houston Area
